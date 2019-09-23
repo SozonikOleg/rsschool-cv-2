@@ -1,2 +1,1 @@
-# rsschool-cv
-rsschool-cv
+https://sozonikoleg.github.io/rsschool-cv/.
